@@ -9,12 +9,12 @@
 ## 강의 질문
 - [issues 활용](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues)
 
-## C프로그래밍 및 실습 강의자료
+## C프로그래밍 및 실습 강의자료 (1학기)
 - [이론 다시보기](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Lecture/Readme.md) 
 - [실습 다시보기](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Labs/Readme.md) 
 
 
-## 강의 자료
+## 고급C프로그래밍 및 실습 강의 자료 (2학기)
 | 주차 | 이론강의 | 실습강의  | 실습 마감일 | 
 |:--:|:--:|:--:|:--:|
 | 1 | [과목 소개](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Lecture/%EA%B0%95%EC%9D%98%EA%B0%9C%EC%9A%94.pdf), [부록](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Lecture/%EB%82%98%EB%8A%94%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EB%8B%A4.pdf)  | [반복문실습/반복문실습(추가)](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Labs/6%EC%9E%A5%20%EB%B0%98%EB%B3%B5%EB%AC%B8-%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C.pdf), [배열실습](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Labs/7%EC%9E%A5%20%EB%B0%B0%EC%97%B4-%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C.pdf), [배열실습(추가)](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Labs/7%EC%9E%A5%20%EB%B0%B0%EC%97%B4-%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C-%EC%B6%94%EA%B0%80.pdf) |  9/8 23:59 | 
