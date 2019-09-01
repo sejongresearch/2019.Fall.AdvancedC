@@ -6,7 +6,7 @@
 - 조교명: 최지현 (chlwlgus119@gmail.com)
 
 ## 강의 질문
-- [이슈 이용]()
+- [issues 활용](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues)
 
 ## 강의 자료
 | 주차 | 이론강의 | 실습강의  | 실습 마감일 | 
