@@ -9,6 +9,11 @@
 ## 강의 질문
 - [issues 활용](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues)
 
+## C프로그래밍 및 실습 강의자료
+- [이론 다시보기](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Lecture/Readme.md) 
+- [실습 다시보기](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Labs/Readme.md) 
+
+
 ## 강의 자료
 | 주차 | 이론강의 | 실습강의  | 실습 마감일 | 
 |:--:|:--:|:--:|:--:|
