@@ -2,8 +2,8 @@
 ## 강의 개요
 - 강의명: 고급C 프로그래밍 및 실습, [강의계획서](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/%EA%B0%95%EC%9D%98%EA%B3%84%ED%9A%8D%EC%84%9C.pdf)
 - 강의: 센106 / 월 12:00-13:30, 월 15:00-17:00, 수 12:00-13:30
-- 교수명: 지능기전공학부 최유경 교수
-- 조교명: 
+- 교수명: 지능기전공학부 최유경 (ykchoi@sejong.ac.kr)
+- 조교명: 최지현 (chlwlgus119@gmail.com)
 
 
 ## 강의 자료
