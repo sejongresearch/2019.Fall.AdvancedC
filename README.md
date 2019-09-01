@@ -4,6 +4,7 @@
 - 강의: 센106 / 월 12:00-13:30, 월 15:00-17:00, 수 12:00-13:30
 - 교수명: 지능기전공학부 최유경 (ykchoi@sejong.ac.kr)
 - 조교명: 최지현 (chlwlgus119@gmail.com)
+- 실습문제: OJ 를 통한 실습
 
 ## 강의 질문
 - [issues 활용](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues)
