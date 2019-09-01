@@ -10,12 +10,12 @@
 | 주차 | 이론강의 | 실습강의  | 기타 | 
 |:--:|:--:|:--:|:--:|
 | 1 | 과목 소개  | 복습 | |
-| 2 | 9장 포인터 I | 포인터로 배열 훑어보기 | |
-| 3 | 9장 포인터 II | 함수에서 특정 배열 원소의 주소 반환 |  |
-| 4 | 10장 문자열 | 문자열 처리하기 |  |
-| 5 | 11장 구조체 I | 학생구조체를 정의하고 성적 처리하기 |  |
-| 6 | 11장 구조체 II | 구조체 배열을 함수에 전달하기 |  |
-| 7 | 12장 동적할당 | 동적 메모리 할당 사용하여 정수를 배열에 저장하기 |  |
+| 2 | [9장 포인터 I](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Lecture/9%EC%9E%A5%20%ED%8F%AC%EC%9D%B8%ED%84%B0.pdf) | 포인터로 배열 훑어보기 | |
+| 3 | [9장 포인터 II](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Lecture/9%EC%9E%A5%20%ED%8F%AC%EC%9D%B8%ED%84%B0.pdf) | 함수에서 특정 배열 원소의 주소 반환 |  |
+| 4 | [10장 문자열](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Lecture/10%EC%9E%A5%20%EB%AC%B8%EC%9E%90%EC%97%B4.pdf) | 문자열 처리하기 |  |
+| 5 | [11장 구조체 I](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Lecture/11%EC%9E%A5%20%EA%B5%AC%EC%A1%B0%EC%B2%B4.pdf) | 학생구조체를 정의하고 성적 처리하기 |  |
+| 6 | [11장 구조체 II](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Lecture/11%EC%9E%A5%20%EA%B5%AC%EC%A1%B0%EC%B2%B4.pdf) | 구조체 배열을 함수에 전달하기 |  |
+| 7 | [12장 동적할당](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Lecture/12%EC%9E%A5%20%EB%8F%99%EC%A0%81%ED%95%A0%EB%8B%B9.pdf) | 동적 메모리 할당 사용하여 정수를 배열에 저장하기 |  |
 | 8 | 중간고사 (1차 인증시험) | 9장 포인터 - 11장 구조체까지 |  |
 | 9 | 디버깅 및 VS | VS 에서 중단점을 이용하여 디버깅하기 |  |
 | 10 | 13장 연산자. 함수. 자료형 고급 I | 피보나치 수열 구하기 |  |
