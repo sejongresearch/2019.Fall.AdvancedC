@@ -1,6 +1,6 @@
 
 ## 강의 개요
-- [강의계획서]
+- [강의계획서](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/%EA%B0%95%EC%9D%98%EA%B3%84%ED%9A%8D%EC%84%9C.pdf)
 - 강의실: 센106
 
 
