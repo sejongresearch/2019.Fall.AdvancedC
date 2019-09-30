@@ -28,6 +28,8 @@
 |   | 문자열 |  [퀴즈] | 10/7 |
 | 6 | [11장 구조체 I](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Lecture/11%EC%9E%A5%20%EA%B5%AC%EC%A1%B0%EC%B2%B4.pdf) | [학생구조체를 정의하고 성적 처리하기](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Labs/11%EC%9E%A5%20%EA%B5%AC%EC%A1%B0%EC%B2%B4-%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C.pdf) |  |
 | 7 | [11장 구조체 II](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Lecture/11%EC%9E%A5%20%EA%B5%AC%EC%A1%B0%EC%B2%B4.pdf) | [구조체 배열을 함수에 전달하기](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Labs/11%EC%9E%A5%20%EA%B5%AC%EC%A1%B0%EC%B2%B4-%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C.pdf) |  |
+|   | 구조체 |  [과제] | 10/15 |
+|   | 구조체 |  [퀴즈] | 10/16 |
 | 시험 | 중간고사 (1차 인증시험) | 9장 포인터 - 11장 구조체까지 | 10/23(수) |
 | 9 | [12장 동적할당](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Lecture/12%EC%9E%A5%20%EB%8F%99%EC%A0%81%ED%95%A0%EB%8B%B9.pdf) | [동적 메모리 할당 사용하여 정수를 배열에 저장하기](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Labs/12%EC%9E%A5%20%EB%8F%99%EC%A0%81%ED%95%A0%EB%8B%B9-%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C.pdf) |  |
 | 10 | 디버깅 및 VS | VS 에서 중단점을 이용하여 디버깅하기 |  |
