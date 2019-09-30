@@ -23,9 +23,9 @@
 | 4 | [9장 포인터 II](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Lecture/9%EC%9E%A5%20%ED%8F%AC%EC%9D%B8%ED%84%B0.pdf) | [함수에서 특정 배열 원소의 주소 반환](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Labs/9%EC%9E%A5%20%ED%8F%AC%EC%9D%B8%ED%84%B0-%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C.pdf) | 9/29 |
 |   | 포인터 |  [과제](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/HW/09%EC%9E%A5%20%ED%8F%AC%EC%9D%B8%ED%84%B0-%EA%B3%BC%EC%A0%9C1(19%EB%85%84)%2019-9-16%20%20(%EC%88%98%EC%A0%954).pdf) | 9/29 |
 |   | 포인터 |  [퀴즈](https://www.dropbox.com/s/uxsyskf28c3odfe/20190930_%ED%8F%AC%EC%9D%B8%ED%84%B0_%ED%80%B4%EC%A6%88.pdf?dl=0) | 9/30 | 
-| 5 | [10장 문자열](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Lecture/10%EC%9E%A5%20%EB%AC%B8%EC%9E%90%EC%97%B4.pdf) | [문자열 처리하기](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Labs/10%EC%9E%A5%20%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C.pdf) |  |
-|   | 문자열 |  [과제]() |  |
-|   | 문자열 |  [퀴즈]() |  |
+| 5 | [10장 문자열](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Lecture/10%EC%9E%A5%20%EB%AC%B8%EC%9E%90%EC%97%B4.pdf) | [문자열 처리하기](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Labs/10%EC%9E%A5%20%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C.pdf) | 10/6 |
+|   | 문자열 |  [과제]() | 10/6 |
+|   | 문자열 |  [퀴즈]() | 10/7 |
 | 6 | [11장 구조체 I](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Lecture/11%EC%9E%A5%20%EA%B5%AC%EC%A1%B0%EC%B2%B4.pdf) | [학생구조체를 정의하고 성적 처리하기](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Labs/11%EC%9E%A5%20%EA%B5%AC%EC%A1%B0%EC%B2%B4-%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C.pdf) |  |
 | 7 | [11장 구조체 II](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Lecture/11%EC%9E%A5%20%EA%B5%AC%EC%A1%B0%EC%B2%B4.pdf) | [구조체 배열을 함수에 전달하기](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Labs/11%EC%9E%A5%20%EA%B5%AC%EC%A1%B0%EC%B2%B4-%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C.pdf) |  |
 | 시험 | 중간고사 (1차 인증시험) | 9장 포인터 - 11장 구조체까지 | 10/23(수) |
