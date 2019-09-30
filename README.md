@@ -31,7 +31,7 @@
 | 7 | [11장 구조체 II](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Lecture/11%EC%9E%A5%20%EA%B5%AC%EC%A1%B0%EC%B2%B4.pdf) | [구조체 배열을 함수에 전달하기](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Labs/11%EC%9E%A5%20%EA%B5%AC%EC%A1%B0%EC%B2%B4-%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C.pdf) | 10/13(일) 23:59 |
 |   | 구조체 |  [과제] | 10/13(일) 오후11:59 |
 |   | 구조체 |  [퀴즈] | 10/14(월) |
-|  | 모의 1차 인증시) |  | 10/16(수) |
+|  | 모의 1차 인증시험 |  | 10/16(수) |
 | 시험 | 중간고사 (1차 인증시험) | 9장 포인터 - 11장 구조체까지 | 10/23(수) |
 
 ## 고급C프로그래밍 및 실습 강의 자료 (2학기), 2차 인증
