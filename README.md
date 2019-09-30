@@ -37,9 +37,9 @@
 | 시험 | 기말고사 | 9장 포인터 - 15장 전처리기와 분할컴파일 |  |
 
 ## 인증 시험지
-|  | 시험일 | 기타  | 
-|:--:|:--:|:--:|
-| 1 | 2017.Fall.Exam.1(인증1차) | [시험지](https://www.dropbox.com/s/d5drke45x634of0/%5B1%EC%B0%A8%EA%B3%A0%EA%B8%89C%EC%9D%B8%EC%A6%9D%EC%8B%9C%ED%97%98%EB%8C%80%EB%B9%84%5D-%EB%AC%B8%EC%A0%9C-20181017.pdf?dl=0) |  OJ 있음 |
+|  | 시험일 | 문제  | 기타 | 
+|:--:|:--:|:--:|:--:|
+| 1 | 2017.Fall.Exam.1(인증1차) | [문제](https://www.dropbox.com/s/d5drke45x634of0/%5B1%EC%B0%A8%EA%B3%A0%EA%B8%89C%EC%9D%B8%EC%A6%9D%EC%8B%9C%ED%97%98%EB%8C%80%EB%B9%84%5D-%EB%AC%B8%EC%A0%9C-20181017.pdf?dl=0) |  OJ 있음 |
 
 
 
