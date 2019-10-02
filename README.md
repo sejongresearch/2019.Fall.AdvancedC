@@ -27,12 +27,13 @@
 | 5 | [10장 4-6절 문자열](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Lecture/10%EC%9E%A5%EB%AC%B8%EC%9E%90%EC%97%B4(%EC%B5%9C%EC%9C%A0%EA%B2%BD).pdf) | [문자열 실습](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Labs/10%EC%9E%A5%20%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C.pdf) 7-12번 | 10/6(일) 23:59 |
 |   | 문자열 |  [과제](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/HW/10%EC%9E%A5%20%EB%AC%B8%EC%9E%90%EC%97%B4-%EA%B3%BC%EC%A0%9C2(19%EB%85%84)-20190923%20(%EC%9D%BC%EB%B0%98%EB%B0%98).pdf) | 10/6(일) 23:59 |
 |   | 문자열 |  [퀴즈] | 10/7(월) |
-| 6 | [11장 구조체 I](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Lecture/11%EC%9E%A5%20%EA%B5%AC%EC%A1%B0%EC%B2%B4.pdf) | [학생구조체를 정의하고 성적 처리하기](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Labs/11%EC%9E%A5%20%EA%B5%AC%EC%A1%B0%EC%B2%B4-%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C.pdf) |  |
-| 7 | [11장 구조체 II](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Lecture/11%EC%9E%A5%20%EA%B5%AC%EC%A1%B0%EC%B2%B4.pdf) | [구조체 배열을 함수에 전달하기](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Labs/11%EC%9E%A5%20%EA%B5%AC%EC%A1%B0%EC%B2%B4-%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C.pdf) | 10/13(일) 23:59 |
-|   | 구조체 |  [과제] | 10/13(일) 오후11:59 |
-|   | 구조체 |  [퀴즈] | 10/14(월) |
-|  | 모의 1차 인증시험 |  | 10/16(수) |
-| 시험 | 중간고사 (1차 인증시험) | 9장 포인터 - 11장 구조체까지 | 10/23(수) |
+| 6 | [11장 1-4절 구조체](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Lecture/11%EC%9E%A5%20%EA%B5%AC%EC%A1%B0%EC%B2%B4.pdf) | [구조체 실습](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Labs/11%EC%9E%A5%20%EA%B5%AC%EC%A1%B0%EC%B2%B4-%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C.pdf) 1-7번 | 10/7, 10/8 23:59 |
+| 7 | [11장 5-7절 구조체](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Lecture/11%EC%9E%A5%20%EA%B5%AC%EC%A1%B0%EC%B2%B4.pdf) | [구조체 실습](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Labs/11%EC%9E%A5%20%EA%B5%AC%EC%A1%B0%EC%B2%B4-%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C.pdf) 8-12번 | 10/13(일) 23:59 |
+|   | 구조체 |  [과제] | 10/13(일) 23:59 |
+|   | 구조체 |  [퀴즈] | 10/14 |
+|   | 포인터 - 구조체 |  질의응답시간   | 10/14 |
+|  | 모의 1차 인증시험 | 9장 포인터 - 11장 구조체까지 | 10/16(수) |
+| 시험 | 1차 인증시험 | 9장 포인터 - 11장 구조체까지 | 10/23(수) |
 
 ## 고급C프로그래밍 및 실습 강의 자료 (2학기), 2차 인증
 | 주차 | 이론강의 | 실습강의  | 마감일 | 
