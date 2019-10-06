@@ -8,7 +8,7 @@
 - [3-2번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/28)
 - [4-1번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/29)
 - [4-2번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/30)
-- [4-3](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/31)
+- [4-3번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/31)
 
 ### 구조체 과제 답안
 
