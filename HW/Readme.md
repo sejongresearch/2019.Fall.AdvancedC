@@ -1,4 +1,10 @@
 ### 포인터 과제 답안
+- [1-1번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/32)
+- [1-2번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/33)
+- [2=1번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/34)
+- [2-2번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/35)
+- [3번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/36)
+- [4번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/37)
 
 ### 문자열 과제 답안
 - [1-1번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/24)
