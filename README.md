@@ -12,7 +12,7 @@
 
 ## 고급C 과제 답안
 - [과제 모범 답안 보기](https://github.com/sejongresearch/2019.Fall.AdvancedC/tree/master/HW)
-
+- [꼭!보기][중단점이용한 디버깅방법](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/22)
 
 ## 고급C프로그래밍 및 실습 강의 자료 (2학기) 1차 인증
 | 주차 | 이론강의 | 실습강의  | 마감일 | 
