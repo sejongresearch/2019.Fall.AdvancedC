@@ -11,7 +11,7 @@
 - [실습 다시보기](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Labs/Readme.md) 
 
 ## 고급C 과제 답안
-- [과제 모범 답안 보기](https://github.com/sejongresearch/2019.Fall.AdvancedC/tree/master/HW)
+- [실습/과제 모범 답안 보기](https://github.com/sejongresearch/2019.Fall.AdvancedC/tree/master/HW), 포인터, 문자열 
 - [꼭!보기][중단점이용한 디버깅방법](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/22)
 - [꼭!보기][1차인증시험 주요 감점요인](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/18)
 
