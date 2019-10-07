@@ -28,6 +28,13 @@
 - [3번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/36)
 - [4번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/37)
 
+
+### 문자열 실습 답안
+- [8번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/42)
+- [9번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/43)
+- [12번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/44)
+
+
 ### 문자열 과제 답안
 - [1-1번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/24)
 - [1-2번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/25)
