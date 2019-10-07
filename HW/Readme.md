@@ -19,6 +19,11 @@
 
 
 
+### 포인터 실습 답안
+- [9번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/45)
+- [14번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/46)
+- [15번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/47)
+
 
 ### 포인터 과제 답안
 - [1-1번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/32)
