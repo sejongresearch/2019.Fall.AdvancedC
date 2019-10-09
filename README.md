@@ -31,7 +31,7 @@
 | 6 | [11장 1-4절 구조체](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Lecture/11%EC%9E%A5%20%EA%B5%AC%EC%A1%B0%EC%B2%B4.pdf) | [실습](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Labs/11%EC%9E%A5%20%EA%B5%AC%EC%A1%B0%EC%B2%B4-%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C.pdf) 1-7번 | 10/13(일) 23:59 |
 |   | 인증시험 기출문제 I  | 포인터, 문자열  | 10/13(일) 23:59 |
 | 7 | [11장 5-7절 구조체](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Lecture/11%EC%9E%A5%20%EA%B5%AC%EC%A1%B0%EC%B2%B4.pdf) | [실습](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Labs/11%EC%9E%A5%20%EA%B5%AC%EC%A1%B0%EC%B2%B4-%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C.pdf) 8-12번 | 10/14(월)  |
-|   | 구조체 |  [실습], [과제4] | 10/15(화) 23:59 |
+|   | 구조체 |  [실습], [과제4](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/HW/11%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%80%E1%85%AE%E1%84%8C%E1%85%A9%E1%84%8E%E1%85%A6-%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A64(19%E1%84%82%E1%85%A7%E1%86%AB)-20191009%20(%E1%84%89%E1%85%AE%E1%84%8C%E1%85%A5%E1%86%BC1)%20(1).pdf) | 10/15(화) 23:59 |
 |   | 구조체 |  [퀴즈] | 10/16(수) |
 |   | 인증시험 기출문제 II  | 구조체  | 10/20(일) 23:59 |
 |   | SW 경시대회 신청 및 응시  |  [과제3](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/HW/SW%EA%B2%BD%EC%8B%9C%EB%8C%80%ED%9A%8C%20%EC%8B%A0%EC%B2%AD%EB%B0%8F%EC%9D%91%EC%8B%9C-%EA%B3%BC%EC%A0%9C3.pdf) | 10/18, 10/28~11/1 |
