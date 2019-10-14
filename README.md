@@ -62,8 +62,8 @@
  
 |  | 시험일 | 문제  | 기타 | 
 |:--:|:--:|:--:|:--:|
-| 1 | 2017.Fall.Exam.1(모의인증1차) | [문제](https://www.dropbox.com/s/d5drke45x634of0/%5B1%EC%B0%A8%EA%B3%A0%EA%B8%89C%EC%9D%B8%EC%A6%9D%EC%8B%9C%ED%97%98%EB%8C%80%EB%B9%84%5D-%EB%AC%B8%EC%A0%9C-20181017.pdf?dl=0) |  OJ 있음 |
-| 2 | 2018.Fall.Exam.1(모의인증1차) | [문제](https://www.dropbox.com/s/wmi4jwlx7jox9uk/%5B1%EC%B0%A8%EA%B3%A0%EA%B8%89C%EC%9D%B8%EC%A6%9D%EC%8B%9C%ED%97%98%5D-%EB%AC%B8%EC%A0%9C-181013%28%EC%88%98%EC%A0%954%29%28%EB%AA%A8%EC%9D%98%29%20%281%29.pdf?dl=0) |  OJ 있음 |
+| 1 | 2017.Fall.Exam.1(모의인증1차) | [문제](hthttps://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/HW/2017.%EB%AA%A8%EC%9D%98%EC%9D%B8%EC%A6%9D.pdf) |  OJ 있음 |
+| 2 | 2018.Fall.Exam.1(모의인증1차) | [문제](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/HW/2018.%EB%AA%A8%EC%9D%98%EC%9D%B8%EC%A6%9D.pdf) |  OJ 있음 |
 
 
 
