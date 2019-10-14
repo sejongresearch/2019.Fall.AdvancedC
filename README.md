@@ -62,7 +62,7 @@
  
 |  | 시험일 | 문제  | 기타 | 
 |:--:|:--:|:--:|:--:|
-| 1 | 2017.Fall.Exam.1(모의인증1차) | [문제](hthttps://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/HW/2017.%EB%AA%A8%EC%9D%98%EC%9D%B8%EC%A6%9D.pdf) |  OJ 있음 |
+| 1 | 2017.Fall.Exam.1(모의인증1차) | [문제](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/HW/2017.%EB%AA%A8%EC%9D%98%EC%9D%B8%EC%A6%9D.pdf) |  OJ 있음 |
 | 2 | 2018.Fall.Exam.1(모의인증1차) | [문제](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/HW/2018.%EB%AA%A8%EC%9D%98%EC%9D%B8%EC%A6%9D.pdf) |  OJ 있음 |
 
 
