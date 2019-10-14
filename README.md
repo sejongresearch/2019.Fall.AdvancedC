@@ -30,7 +30,7 @@
 |   | 문자열 |  [퀴즈](https://www.dropbox.com/s/cagbtktn4z5fk4a/20191007_%EB%AC%B8%EC%9E%90%EC%97%B4_%ED%80%B4%EC%A6%88.pdf?dl=0), [결과](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/38) | 10/7(월) |
 | 6 | [11장 1-4절 구조체](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Lecture/11%EC%9E%A5%20%EA%B5%AC%EC%A1%B0%EC%B2%B4.pdf) | [실습](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Labs/11%EC%9E%A5%20%EA%B5%AC%EC%A1%B0%EC%B2%B4-%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C.pdf) 1-7번 | 10/13(일) 23:59 |
 |   | 인증시험 기출문제 I  | 포인터, 문자열  | 10/13(일) 23:59 |
-| 7 | [11장 5-7절 구조체](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Lecture/11%EC%9E%A5%20%EA%B5%AC%EC%A1%B0%EC%B2%B4.pdf) | [실습](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Labs/11%EC%9E%A5%20%EA%B5%AC%EC%A1%B0%EC%B2%B4-%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C.pdf) 8-12번 | 10/14(월), 10/15(화) 23:59  |
+| 7 | [11장 5-7절 구조체](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Lecture/11%EC%9E%A5%20%EA%B5%AC%EC%A1%B0%EC%B2%B4-20191014.pdf) | [실습](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Labs/11%EC%9E%A5%20%EA%B5%AC%EC%A1%B0%EC%B2%B4-%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C.pdf) 8-12번 | 10/14(월), 10/15(화) 23:59  |
 |   | 구조체 |   [과제4](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/HW/11%EC%9E%A5%20%EA%B5%AC%EC%A1%B0%EC%B2%B4-%EA%B3%BC%EC%A0%9C4(19%EB%85%84)-20191009%20(%EC%88%98%EC%A0%952).pdf) | 10/15(화) 23:59 |
 |   | 구조체 |  [퀴즈] | 10/16(수) |
 |   | 인증시험 기출문제 II  | 구조체  | 10/20(일) 23:59 |
