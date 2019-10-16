@@ -28,12 +28,12 @@
 |   | 문자열 |  [과제2](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/HW/10%EC%9E%A5%20%EB%AC%B8%EC%9E%90%EC%97%B4-%EA%B3%BC%EC%A0%9C2(19%EB%85%84)-%EB%AC%B8%EC%A0%9C1%EC%88%98%EC%A0%95.pdf), [답안](https://github.com/sejongresearch/2019.Fall.AdvancedC/tree/master/HW) | 10/6(일) |
 |   | 문자열 |  [퀴즈3](https://www.dropbox.com/s/cagbtktn4z5fk4a/20191007_%EB%AC%B8%EC%9E%90%EC%97%B4_%ED%80%B4%EC%A6%88.pdf?dl=0), [결과](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/38) | 10/7(월) |
 | 6 | [11장 1-4절 구조체](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Lecture/11%EC%9E%A5%20%EA%B5%AC%EC%A1%B0%EC%B2%B4.pdf) | [실습](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Labs/11%EC%9E%A5%20%EA%B5%AC%EC%A1%B0%EC%B2%B4-%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C.pdf) 01-07번 | 10/13(일) |
-|   | 인증시험 기출문제 I  | 포인터, 문자열  | 10/13(일) |
+|   | 모의인증  | [2017](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/HW/2017.%EB%AA%A8%EC%9D%98%EC%9D%B8%EC%A6%9D.pdf), [2018](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/HW/2018.%EB%AA%A8%EC%9D%98%EC%9D%B8%EC%A6%9D.pdf)  | 10/13(일) |
 |   | SW 경시대회 신청 및 응시  |  [과제3](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/HW/SW%EA%B2%BD%EC%8B%9C%EB%8C%80%ED%9A%8C%20%EC%8B%A0%EC%B2%AD%EB%B0%8F%EC%9D%91%EC%8B%9C-%EA%B3%BC%EC%A0%9C3.pdf) | 10/18(금) 마감 |
 | 7 | [11장 5-7절 구조체](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Lecture/11%EC%9E%A5%20%EA%B5%AC%EC%A1%B0%EC%B2%B4-20191014.pdf) | [실습](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Labs/11%EC%9E%A5%20%EA%B5%AC%EC%A1%B0%EC%B2%B4-%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C.pdf) 08-12번 | 10/14(월), 10/15(화)  |
 |   | 구조체 |   [과제4](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/HW/11%EC%9E%A5%20%EA%B5%AC%EC%A1%B0%EC%B2%B4-%EA%B3%BC%EC%A0%9C4(19%EB%85%84)-20191009%20(%EC%88%98%EC%A0%952).pdf), [답안](https://github.com/sejongresearch/2019.Fall.AdvancedC/tree/master/HW), [힌트](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/59) | 10/15(화) |
 |   | 구조체 |  [퀴즈4](https://www.dropbox.com/s/2glygzhamsrajts/20191015_%ED%80%B4%EC%A6%88_%EA%B5%AC%EC%A1%B0%EC%B2%B4_.pdf?dl=0), [분석](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/53#issuecomment-542516673) | 10/16(수) |
-|   | 인증시험 기출문제 II  | 나머지 문제 (구조체)  | 10/20(일) 23:59 |
+|   | 모의인증  | [2017](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/HW/2017.%EB%AA%A8%EC%9D%98%EC%9D%B8%EC%A6%9D.pdf), [2018](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/HW/2018.%EB%AA%A8%EC%9D%98%EC%9D%B8%EC%A6%9D.pdf) 4-5번  | 10/20(일) 23:59 |
 | 8 |  보강 | 질의응답시간, [사전신청](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/56)  | 10/21(월) |
 | 8 | 1차 인증시험 | 9장 포인터 - 11장 구조체까지 | 10/23(수)  |
 
@@ -56,14 +56,6 @@
 | 14 | 14장 파일 입출력 II | 실전프로젝트(3)-파일입출력 |  |
 | 15 | 15장 전처리기와 분할컴파일 (1) | 실전프로젝트(4)-분할컴파일 |  |
 | 시험 | 기말고사 | 9장 포인터 - 15장 전처리기와 분할컴파일 | 실기시험(12/16) |
-
-## 인증 시험지
- - [관련정보](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/14)
- 
-|  | 시험일 | 문제  | 기타 | 
-|:--:|:--:|:--:|:--:|
-| 1 | 2017.Fall.Exam.1(모의인증1차) | [문제](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/HW/2017.%EB%AA%A8%EC%9D%98%EC%9D%B8%EC%A6%9D.pdf) |  OJ 있음 |
-| 2 | 2018.Fall.Exam.1(모의인증1차) | [문제](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/HW/2018.%EB%AA%A8%EC%9D%98%EC%9D%B8%EC%A6%9D.pdf) |  OJ 있음 |
 
 
 
