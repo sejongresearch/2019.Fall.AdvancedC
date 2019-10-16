@@ -50,6 +50,15 @@
 - [4-2번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/30)
 - [4-3번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/31)
 
+
+### 구조체 실습 답안
+- [7번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/70)
+- [9번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/71)
+- [10번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/72)
+- [12번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/73)
+
+
+
 ### 구조체 과제 답안
 - [1-1번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/61)
 - [1-2번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/62)
