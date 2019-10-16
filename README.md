@@ -10,8 +10,7 @@
 - [이론 다시보기](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Lecture/Readme.md) 
 - [실습 다시보기](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Labs/Readme.md) 
 
-## 고급C 과제 답안
-- [실습/과제 모범 답안 보기](https://github.com/sejongresearch/2019.Fall.AdvancedC/tree/master/HW), 포인터, 문자열 
+## 인증시험 전 확인!!
 - [꼭!보기][중단점이용한 디버깅방법](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/22)
 - [꼭!보기][1차인증시험 주요 감점요인](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/18)
 
@@ -32,7 +31,7 @@
 |   | 인증시험 기출문제 I  | 포인터, 문자열  | 10/13(일) |
 |   | SW 경시대회 신청 및 응시  |  [과제3](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/HW/SW%EA%B2%BD%EC%8B%9C%EB%8C%80%ED%9A%8C%20%EC%8B%A0%EC%B2%AD%EB%B0%8F%EC%9D%91%EC%8B%9C-%EA%B3%BC%EC%A0%9C3.pdf) | 10/18(금) 마감 |
 | 7 | [11장 5-7절 구조체](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Lecture/11%EC%9E%A5%20%EA%B5%AC%EC%A1%B0%EC%B2%B4-20191014.pdf) | [실습](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Labs/11%EC%9E%A5%20%EA%B5%AC%EC%A1%B0%EC%B2%B4-%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C.pdf) 08-12번 | 10/14(월), 10/15(화)  |
-|   | 구조체 |   [과제4](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/HW/11%EC%9E%A5%20%EA%B5%AC%EC%A1%B0%EC%B2%B4-%EA%B3%BC%EC%A0%9C4(19%EB%85%84)-20191009%20(%EC%88%98%EC%A0%952).pdf) | 10/15(화) |
+|   | 구조체 |   [과제4](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/HW/11%EC%9E%A5%20%EA%B5%AC%EC%A1%B0%EC%B2%B4-%EA%B3%BC%EC%A0%9C4(19%EB%85%84)-20191009%20(%EC%88%98%EC%A0%952).pdf), [답안](https://github.com/sejongresearch/2019.Fall.AdvancedC/tree/master/HW) | 10/15(화) |
 |   | 구조체 |  [퀴즈4](https://www.dropbox.com/s/2glygzhamsrajts/20191015_%ED%80%B4%EC%A6%88_%EA%B5%AC%EC%A1%B0%EC%B2%B4_.pdf?dl=0), [분석](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/53#issuecomment-542516673) | 10/16(수) |
 |   | 인증시험 기출문제 II  | 나머지 문제 (구조체)  | 10/20(일) 23:59 |
 | 8 |  보강 | 질의응답시간, [사전신청](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/56)  | 10/21(월) |
