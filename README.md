@@ -55,7 +55,7 @@
 | 14 | 14장 파일입출력 I | [피보나치 수열 구하기](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Labs/13%EC%9E%A5%20%EC%97%B0%EC%82%B0%EC%9E%90%ED%95%A8%EC%88%98%EC%9E%90%EB%A3%8C%ED%98%95%20%EA%B3%A0%EA%B8%89-%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C.pdf) |  |
 | 14 | 14장 파일 입출력 II | 실전프로젝트(3)-파일입출력 |  |
 | 15 | 15장 전처리기와 분할컴파일 (1) | 실전프로젝트(4)-분할컴파일 |  |
-| 시험 | 기말고사 | 9장 포인터 - 15장 전처리기와 분할컴파일 |  |
+| 시험 | 기말고사 | 9장 포인터 - 15장 전처리기와 분할컴파일 | 실기시험(12/16) |
 
 ## 인증 시험지
  - [관련정보](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/14)
