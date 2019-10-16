@@ -35,7 +35,7 @@
 |   | 구조체 |   [과제4](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/HW/11%EC%9E%A5%20%EA%B5%AC%EC%A1%B0%EC%B2%B4-%EA%B3%BC%EC%A0%9C4(19%EB%85%84)-20191009%20(%EC%88%98%EC%A0%952).pdf) | 10/15(화) |
 |   | 구조체 |  [퀴즈4](https://www.dropbox.com/s/2glygzhamsrajts/20191015_%ED%80%B4%EC%A6%88_%EA%B5%AC%EC%A1%B0%EC%B2%B4_.pdf?dl=0) | 10/16(수) |
 |   | 인증시험 기출문제 II  | 나머지 문제 (구조체)  | 10/20(일) 23:59 |
-| 보강 | 시험 전범위  | 질의응답시간, [사전신청](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/56)  | 10/21(월) |
+| 8 |  보강 | 질의응답시간, [사전신청](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/56)  | 10/21(월) |
 | 8 | 1차 인증시험 | 9장 포인터 - 11장 구조체까지 | 10/23(수)  |
 
 - 우리반 모두가 A를 받기를 희망합니다. :) 
