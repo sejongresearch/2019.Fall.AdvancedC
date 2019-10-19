@@ -6,6 +6,9 @@
 - 조교명: 최지현 (chlwlgus119@gmail.com)
 - 실습문제: OJ 를 통한 실습
 
+## OJ 시스템 사용법
+- [메뉴얼](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/OJ%E1%84%86%E1%85%A6%E1%84%82%E1%85%B2%E1%84%8B%E1%85%A5%E1%86%AF(201903).pdf)
+
 ## C프로그래밍 및 실습 강의자료 (1학기)
 - [이론 다시보기](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Lecture/Readme.md) 
 - [실습 다시보기](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Labs/Readme.md) 
