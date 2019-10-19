@@ -4,9 +4,9 @@
 - 강의: 센106 / 월 12:00-13:30, 월 15:00-17:00, 수 12:00-13:30
 - 교수명: 지능기전공학부 최유경 (ykchoi@sejong.ac.kr)
 - 조교명: 최지현 (chlwlgus119@gmail.com)
-- 실습문제: OJ 를 통한 실습
 
 ## OJ 시스템 사용법
+- 프로그램 실습은 온라인저지(Online Judge)를 활용함
 - [메뉴얼](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/OJ%E1%84%86%E1%85%A6%E1%84%82%E1%85%B2%E1%84%8B%E1%85%A5%E1%86%AF(201903).pdf)
 
 ## C프로그래밍 및 실습 강의자료 (1학기)
