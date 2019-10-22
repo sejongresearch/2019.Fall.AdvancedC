@@ -67,11 +67,21 @@
 - [3번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/65)
 - [4번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/66)
 
-
+### 2018.Fall.인증시험 답안
+- [1번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/76)
+- [2번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/77)
+- [3번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/78)
+- [4번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/79)
+- [5번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/80)
 
 
 ### 2017.Fall.인증시험 답안
+- [1번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/81)
+- [2번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/82)
+- [3-1번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/83)
+- [3-2번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/84)
+- [3-3번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/85)
+- [4-1번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/86)
+- [4-2번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/87)
 
-
-### 2018.Fall.인증시험 답안
 
