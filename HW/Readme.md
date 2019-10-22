@@ -67,7 +67,7 @@
 - [3번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/65)
 - [4번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/66)
 
-### 2018.Fall.인증시험 답안
+### 2018.Fall.모의인증시험 답안
 - [1번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/76)
 - [2번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/77)
 - [3번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/78)
@@ -75,7 +75,7 @@
 - [5번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/80)
 
 
-### 2017.Fall.인증시험 답안
+### 2017.Fall.모의인증시험 답안
 - [1번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/81)
 - [2번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/82)
 - [3-1번](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/83)
