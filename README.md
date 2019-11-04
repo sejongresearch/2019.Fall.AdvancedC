@@ -40,6 +40,7 @@
 | 8 |  보강 | 질의응답시간, [사전신청](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues/56)  | 10/21(월) |
 | 8 | 1차 인증시험 | 9장 포인터 - 11장 구조체까지 | 10/23(수)  |
 | 10 | [12장 동적할당](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Lecture/12%EC%9E%A5%20%EB%8F%99%EC%A0%81%ED%95%A0%EB%8B%B9.pdf) | [실습](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Labs/12%EC%9E%A5%20%EB%8F%99%EC%A0%81%ED%95%A0%EB%8B%B9-%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C-20191029.pdf), [과제](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/HW/12%EC%9E%A5%20%EB%8F%99%EC%A0%81%ED%95%A0%EB%8B%B9-%EA%B3%BC%EC%A0%9C5(19%EB%85%84)-20191030.pdf) | 11/10(일) |
+|  | 동적할당 퀴즈 |  | 11/11(월) |
 | 11 | 13장 연산자. 함수. 자료형 고급 I | 실전프로젝트(1)-구조체배열 |  |
 | 11 | 13장 연산자. 함수. 자료형 고급 II |  실전프로젝트(2)-동적할당 |  |
 | 12 | 모의 인증 연습 |  |  |
