@@ -48,7 +48,7 @@
 | 12 | 인증 대비 실전 연습 |  | 11/18(수) 실습 |
 | 12 | 모의 인증시험 2차 |  | 11/20(수)  |
 | 시험 | 인증시험(2차) | 9장 포인터 - 12장 동적할당 | 11/22(금) |
-| 13 | [13장 연산자. 함수. 자료형 고급 II](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Lecture/13%EC%9E%A5%20%EC%97%B0%EC%82%B0%EC%9E%90%ED%95%A8%EC%88%98%EC%9E%90%EB%A3%8C%ED%98%95%20%EC%8B%AC%ED%99%94-20191125.pdf) |  | 11/25(월) |
+| 13 | [13장 연산자. 함수. 자료형 고급 II](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Lecture/13%EC%9E%A5%20%EC%97%B0%EC%82%B0%EC%9E%90%ED%95%A8%EC%88%98%EC%9E%90%EB%A3%8C%ED%98%95%20%EC%8B%AC%ED%99%94-20191125.pdf) | [실습](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Labs/13%EC%9E%A5%20%EC%97%B0%EC%82%B0%EC%9E%90%ED%95%A8%EC%88%98%EC%9E%90%EB%A3%8C%ED%98%95%20%EA%B3%A0%EA%B8%89-%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C.pdf) | 11/25(월) |
 | 13 | 13장 연산자. 함수. 자료형 고급 II |  | 11/25(월) |
 | 13 | 파일입출력 |  | 11/27 |
 | 14 | 전처리기와 분할컴파일 |  | 12/2 |
