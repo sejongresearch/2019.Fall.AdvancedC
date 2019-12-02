@@ -54,9 +54,9 @@
 | 14 | 13장 연산자. 함수. 자료형 고급 II |  | 12/2(월) 실습 |
 | 14 | [파일입출력](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Lecture/14%EC%9E%A5%20%ED%8C%8C%EC%9D%BC%EC%9E%85%EC%B6%9C%EB%A0%A5_20191202.pdf) |  | 12/2 |
 | 14 | SW인재페스티벌 참관 |  | 12/4 |
-| 15 | 전처리기와 분할컴파일 |  | 12/9 |
-| 15 | 실전 프로젝트 I | [설명서](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/HW/%EC%8B%A4%EC%8A%B5%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%84%A4%EB%AA%85%EC%84%9C.pdf), [1단계 명세서](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/HW/%EC%8B%A4%EC%8A%B5%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B81%EB%8B%A8%EA%B3%84%EB%AA%85%EC%84%B8%EC%84%9C.pdf) | 12/9 |
-| 15 | 실전 프로젝트 II | [2단계 명세서](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/HW/%EC%8B%A4%EC%8A%B5%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B82%EB%8B%A8%EA%B3%84%EB%AA%85%EC%84%B8%EC%84%9C.pdf) | 12/11 |
+| 15 | 전처리기와 분할컴파일 |  | 12/9  |
+| 15 | 실전 프로젝트 I | [설명서](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/HW/%EC%8B%A4%EC%8A%B5%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%84%A4%EB%AA%85%EC%84%9C.pdf), [1단계 명세서](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/HW/%EC%8B%A4%EC%8A%B5%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B81%EB%8B%A8%EA%B3%84%EB%AA%85%EC%84%B8%EC%84%9C.pdf) | 12/9 (마감 12/15) |
+| 15 | 실전 프로젝트 II | [2단계 명세서](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/HW/%EC%8B%A4%EC%8A%B5%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B82%EB%8B%A8%EA%B3%84%EB%AA%85%EC%84%B8%EC%84%9C.pdf) | 12/11 (마감 12/22) |
 | 16 | 기말고사(이론) |  | 12/16 (이론) |
 | 16 | 기말고사(실기) |  | 12/16 (실습) |
 
