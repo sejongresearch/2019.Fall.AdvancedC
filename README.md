@@ -50,8 +50,7 @@
 | 시험 | 인증시험(2차) | 9장 포인터 - 12장 동적할당 | 11/22(금) |
 | 13 | [13장 연산자. 함수. 자료형 고급](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Lecture/13%EC%9E%A5%20%EC%97%B0%EC%82%B0%EC%9E%90%ED%95%A8%EC%88%98%EC%9E%90%EB%A3%8C%ED%98%95%20%EC%8B%AC%ED%99%94-20191125.pdf) | [실습](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Labs/13%EC%9E%A5%20%EC%97%B0%EC%82%B0%EC%9E%90%ED%95%A8%EC%88%98%EC%9E%90%EB%A3%8C%ED%98%95%20%EA%B3%A0%EA%B8%89-%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C.pdf) | 11/25 |
 | 13 | 13장 연산자. 함수. 자료형 고급  |  | 11/27 |
-| 14 |  | 퀴즈 | 12/2 |
-| 14 | [파일입출력](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Lecture/14%EC%9E%A5%20%ED%8C%8C%EC%9D%BC%EC%9E%85%EC%B6%9C%EB%A0%A5_20191202.pdf) |  | 12/2 |
+| 14 | [파일입출력](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Lecture/14%EC%9E%A5%20%ED%8C%8C%EC%9D%BC%EC%9E%85%EC%B6%9C%EB%A0%A5_20191202.pdf) | 퀴즈 | 12/2 |
 | 14 | SW인재페스티벌 참관 |  | 12/4 |
 | 15 | 전처리기와 분할컴파일 |  | 12/9  |
 | 15 | 실전 프로젝트 I | [설명서](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/HW/%EC%8B%A4%EC%8A%B5%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%84%A4%EB%AA%85%EC%84%9C.pdf), [1단계 명세서](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/HW/%EC%8B%A4%EC%8A%B5%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B81%EB%8B%A8%EA%B3%84%EB%AA%85%EC%84%B8%EC%84%9C.pdf) | 12/9 (마감 12/15) |
