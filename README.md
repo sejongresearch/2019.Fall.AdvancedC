@@ -3,10 +3,10 @@
 - 강의명: 고급C 프로그래밍 및 실습, [강의계획서](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/%EA%B0%95%EC%9D%98%EA%B3%84%ED%9A%8D%EC%84%9C.pdf)
 - 강의: 센106 / 월 12:00-13:30, 월 15:00-17:00, 수 12:00-13:30
 - 교수명: 지능기전공학부 최유경 (ykchoi@sejong.ac.kr)
-- 조교명: 최지현 (chlwlgus119@gmail.com)
 
 ## OJ 시스템 사용법
 - 프로그램 실습은 온라인저지(Online Judge)를 활용함
+- 수업종료 이후: http://server.rcv.sejong.ac.kr/ 회원가입을 통해 연습 가능
 - [메뉴얼](https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/OJ%E1%84%86%E1%85%A6%E1%84%82%E1%85%B2%E1%84%8B%E1%85%A5%E1%86%AF(201903).pdf)
 
 ## C프로그래밍 및 실습 강의자료 (1학기)
